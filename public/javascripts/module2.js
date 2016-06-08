@@ -1,3 +1,3 @@
 module.exports.render = function(){
-	document.write("It works. Module 2");
+	document.write("Module 1 loaded! ");
 }
